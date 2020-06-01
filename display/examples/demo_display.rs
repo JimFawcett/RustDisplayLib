@@ -1,4 +1,9 @@
-extern crate display;
+/////////////////////////////////////////////////////////////
+// display::demo_display.rs - Demonstrate display types    //
+//                                                         //
+// Jim Fawcett, https://JimFawcett.github.io, 25 Mar 2020  //
+/////////////////////////////////////////////////////////////
+
 use display::{*};
 
 #[derive(Debug)]
